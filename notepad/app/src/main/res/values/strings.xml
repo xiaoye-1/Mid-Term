@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="live_folder_name">Notes</string>
+
+    <string name="title_edit_title">笔记标题:</string>
+    <string name="title_create">笔记便签</string>
+    <string name="title_edit">%1$s</string>
+    <string name="title_notes_list">Notes</string>
+
+    <string name="menu_add">新的笔记</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_revert">不保存退出</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_paste">新建</string>
+
+    <string name="button_ok">确定</string>
+    <string name="text_title">标题:</string>
+
+    <string name="resolve_edit">编辑笔记</string>
+    <string name="resolve_title">编辑标题</string>
+
+    <string name="error_title">错误</string>
+    <string name="error_message">加载错误报告</string>
+    <string name="nothing_to_save">无可保存内容</string>
+    <string name="background">主题背景</string>
+</resources>
